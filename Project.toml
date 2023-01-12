@@ -1,0 +1,4 @@
+name = "julia_github_ci"
+uuid = "e0da4ed4-e6a9-46b4-88d9-80ef5d58ef6c"
+authors = ["Antonin Paquette <antonin.paquette-rufiange@polymtl.ca>"]
+version = "0.1.0"
